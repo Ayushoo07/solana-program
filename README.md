@@ -175,11 +175,6 @@ anchor test
 
 - If you encounter **`AccountNotFound`** errors, make sure the **program ID** is correctly updated in `declare_id!()`.
 - Use `solana logs` to check for
--
--
--
--
--
 - runtime errors:
   ```sh
   solana logs
@@ -189,14 +184,5 @@ anchor test
   solana balance
   ```
 
-## License
 
-This project is open-source and available under the MIT License.
-
-
-  ```
-
-## License
-
-This project is open-source and available under the MIT License.
 
